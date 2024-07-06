@@ -23,7 +23,7 @@ SMS spam detection is a common problem in natural language processing. The goal 
 ## Dataset
 
 The dataset used in this project is the SMS Spam Collection Dataset. It contains 5,574 SMS messages, each labeled as either "ham" (legitimate) or "spam". You can download the dataset from 
-[here](#https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
+[here](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
 
 ## Installation
 
