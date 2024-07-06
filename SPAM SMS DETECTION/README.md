@@ -6,18 +6,26 @@ is the SMS Spam Collection Dataset from UCI Machine Learning Repository.
 ## Table of Contents
 
 [Introduction](#introdcution)
+
 [Dataset](#dataset)
+
 [Installation](#installation)
-[Usage](#usage)<br/>
+
+[Usage](#usage)
+
 [Project Structure](#project-structure)
+
 [Feature Extraction](#feature-extarction)
+
 [Model Training](#model-training)
+
 [Model Evaluation](#model-evaluation)
+
 [Results](#results)
+
 [Contributing](#contributing)
+
 [License](#license)
-
-
 
 ## Introduction
 <br/>
