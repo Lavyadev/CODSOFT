@@ -44,7 +44,7 @@ cd CODSOFT
 3. Run the script to train and evaluate the model:
 ```
 bash
-python sms_spam_detection.py
+python sms_spam_detection.ipynb
 ```
 
 ## Project Structure
@@ -56,7 +56,7 @@ sms_spam_detection/
 ├── data/
 │   └── spam.csv
 │
-├── sms_spam_detection.py
+├── sms_spam_detection.ipynb
 ├── README.md
 ```
 
