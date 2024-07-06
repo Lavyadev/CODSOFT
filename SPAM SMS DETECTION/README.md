@@ -6,16 +6,16 @@ is the SMS Spam Collection Dataset from UCI Machine Learning Repository.
 
 ## Table of Contents
 <br/>
-[Introduction](#introduction)
-[Dataset](#dataset)
-[Installation](#installation)
-[Usage](#usage)
-[Project Structure](#project-structure)
-[Feature Extraction](#feature-extarction)
-[Model Training](#model-training)
-[Model Evaluation](#model-evaluation)
-[Results](#results)
-[Contributing](#contributing)
+[Introduction](#introduction)<br/>
+[Dataset](#dataset)<br/>
+[Installation](#installation)<br/>
+[Usage](#usage)<br/>
+[Project Structure](#project-structure)<br/>
+[Feature Extraction](#feature-extarction)<br/>
+[Model Training](#model-training)<br/>
+[Model Evaluation](#model-evaluation)<br/>
+[Results](#results)<br/>
+[Contributing](#contributing)<br/>
 [License](#license)
 <br/>
 
@@ -33,4 +33,5 @@ The dataset used in this project is the SMS Spam Collection Dataset. It contains
 <br/>
 To run this project, you need to have Python installed on your system. You can install the required libraries using the following command:<br/>
 '''bash<br/>
-pip install pandas scikit-learn
+pip install pandas scikit-learn<br/>
+
