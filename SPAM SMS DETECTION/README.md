@@ -90,6 +90,9 @@ The performance of the model is as follows:<br/>
 |Logistic Regression                |0.98       |
 |Support Vector Machine(SVM)        |0.98       |
 
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 
 
