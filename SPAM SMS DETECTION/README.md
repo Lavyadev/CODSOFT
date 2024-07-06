@@ -14,7 +14,7 @@ This projects aims ot classify SMS messages as spam or legitimate(ham) using var
 [Model Evaluation](#model-evaluation)<br/>
 [Results](#results)<br/>
 [Contributing](#contributing)<br/>
-[License](#license)<br/>
+[License](#license)
 
 ## Introduction
 
@@ -27,17 +27,39 @@ The dataset used in this project is the SMS Spam Collection Dataset. It contains
 
 ## Installation
 
-To run this project, you need to have Python installed on your system. You can install the required libraries using the following command:<br/>
+To run this project, you need to have Python installed on your system. You can install the required libraries using the following command:
 ```
 bash<br/>
 pip install pandas scikit-learn
+```
 
 ## Usage
 
 1. Clone the repository:
-'''bash<br/>
+```
+bash<br/>
 git clone https://github.com/yourusername/sms-spam-classification.git<br/>
 cd sms-spam-classification
+```
+2. Download the dataset and place it in the project directory.<br/>
+3. Run the script to train and evaluate the model:
+```
+bash<br/>
+python sms_spam_classification.py
+```
+
+## Project Structure
+
+```
+kotlin<br/>
+sms-spam-classification/
+│
+├── data/
+│   └── SMSSpamCollection.zip
+│
+├── sms_spam_classification.py
+├── README.md
+└── requirements.txt
 
 
 
