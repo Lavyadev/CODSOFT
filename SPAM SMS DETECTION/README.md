@@ -5,13 +5,13 @@ is the SMS Spam Collection Dataset from UCI Machine Learning Repository.
 <br/>
 ## Table of Contents
 <br/>
-Introduction
-Dataset
-Installation
-Usage
-Project Structure
-Feature Extraction
-Model Training
-Model Evaluation
-Results
-Contributing
+Introduction<br/>
+Dataset<br/>
+Installation<br/>
+Usage<br/>
+Project Structure<br/>
+Feature Extraction<br/>
+Model Training<br/>
+Model Evaluation<br/>
+Results<br/>
+Contributing<br/>
