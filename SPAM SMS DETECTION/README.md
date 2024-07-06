@@ -6,7 +6,7 @@ is the SMS Spam Collection Dataset from UCI Machine Learning Repository.
 
 ## Table of Contents
 <br/>
-[Introduction](#introduction)<br/>
+[Introduction](https://github.com/Lavyadev/CODSOFT/blob/main/SPAM%20SMS%20DETECTION/README.md#introduction)
 [Dataset](#dataset)<br/>
 [Installation](#installation)<br/>
 [Usage](#usage)<br/>
