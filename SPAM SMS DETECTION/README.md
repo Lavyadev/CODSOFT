@@ -29,6 +29,7 @@ The dataset used in this project is the SMS Spam Collection Dataset. It contains
 
 To run this project, you need to have Python installed on your system. You can install the required libraries using the following command:<br/>
 '''
+
 bash<br/>
 pip install pandas scikit-learn
 '''
