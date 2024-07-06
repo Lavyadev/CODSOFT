@@ -37,28 +37,27 @@ pip install pandas scikit-learn
 1. Clone the repository:
 ```
 bash
-git clone https://github.com/yourusername/sms-spam-classification.git
-cd sms-spam-classification
+git clone https://github.com/Lavyadev/CODSOFT.git
+cd CODSOFT
 ```
 2. Download the dataset and place it in the project directory.<br/>
 3. Run the script to train and evaluate the model:
 ```
 bash
-python sms_spam_classification.py
+python sms_spam_detection.py
 ```
 
 ## Project Structure
 
 ```
 kotlin
-sms-spam-classification/
+sms_spam_detection/
 │
 ├── data/
-│   └── SMSSpamCollection.zip
+│   └── spam.csv
 │
-├── sms_spam_classification.py
+├── sms_spam_detection.py
 ├── README.md
-└── requirements.txt
 ```
 
 ## Feature Extraction
