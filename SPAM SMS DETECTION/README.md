@@ -85,6 +85,7 @@ We evaluate the model using various matrices:<br/>
 
 The performance of the model is as follows:<br/>
 |MODEL                              |Accuracy   |
+|-----------------------------------|-----------|
 |Naive Bayes                        |0.98       |
 |Logistic Regression                |0.98       |
 |Support Vector Machine(SVM)        |0.98       |
