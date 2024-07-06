@@ -6,7 +6,7 @@ is the SMS Spam Collection Dataset from UCI Machine Learning Repository.
 
 ## Table of Contents
 <br/>
-- [Introduction] (https://github.com/Lavyadev/CODSOFT/blob/main/SPAM%20SMS%20DETECTION/README.md#introduction)<br/>
+[Introduction](#introduction)<br/>
 [Dataset](#dataset)<br/>
 [Installation](#installation)<br/>
 [Usage](#usage)<br/>
@@ -26,7 +26,7 @@ SMS spam detection is a common problem in natural language processing. The goal 
 
 ## Dataset
 <br/>
-The dataset used in this project is the SMS Spam Collection Dataset. It contains 5,574 SMS messages, each labeled as either "ham" (legitimate) or "spam". You can download the dataset from [here](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
+The dataset used in this project is the SMS Spam Collection Dataset. It contains 5,574 SMS messages, each labeled as either "ham" (legitimate) or "spam". You can download the dataset from [here](#https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
 <br/>
 
 ## Installation
