@@ -5,8 +5,7 @@ is the SMS Spam Collection Dataset from UCI Machine Learning Repository.
 
 ## Table of Contents
 
-[Introduction](#introdcution)
-
+[Introduction](#introdcution)<br/>
 [Dataset](#dataset)
 
 [Installation](#installation)
