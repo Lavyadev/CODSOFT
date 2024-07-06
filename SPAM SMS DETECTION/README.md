@@ -4,17 +4,16 @@ This projects aims ot classify SMS messages as spam or legitimate(ham) using var
 
 ## Table of Contents
 
-[Introduction](#introdcution)<br/>
-[Dataset](#dataset)<br/>
-[Installation](#installation)<br/>
-[Usage](#usage)<br/>
-[Project Structure](#project-structure)<br/>
-[Feature Extraction](#feature-extarction)<br/>
-[Model Training](#model-training)<br/>
-[Model Evaluation](#model-evaluation)<br/>
-[Results](#results)<br/>
-[Contributing](#contributing)<br/>
-[License](#license)
+-[Introduction](#introdcution)<br/>
+-[Dataset](#dataset)<br/>
+-[Installation](#installation)<br/>
+-[Usage](#usage)<br/>
+-[Project Structure](#project-structure)<br/>
+-[Feature Extraction](#feature-extarction)<br/>
+-[Model Training](#model-training)<br/>
+-[Model Evaluation](#model-evaluation)<br/>
+-[Results](#results)<br/>
+-[Contributing](#contributing)<br/>
 
 ## Introduction
 
@@ -29,7 +28,7 @@ The dataset used in this project is the SMS Spam Collection Dataset. It contains
 
 To run this project, you need to have Python installed on your system. You can install the required libraries using the following command:
 ```
-bash<br/>
+bash
 pip install pandas scikit-learn
 ```
 
@@ -37,21 +36,21 @@ pip install pandas scikit-learn
 
 1. Clone the repository:
 ```
-bash<br/>
+bash
 git clone https://github.com/yourusername/sms-spam-classification.git<br/>
 cd sms-spam-classification
 ```
 2. Download the dataset and place it in the project directory.<br/>
 3. Run the script to train and evaluate the model:
 ```
-bash<br/>
+bash
 python sms_spam_classification.py
 ```
 
 ## Project Structure
 
 ```
-kotlin<br/>
+kotlin
 sms-spam-classification/
 │
 ├── data/
@@ -60,6 +59,39 @@ sms-spam-classification/
 ├── sms_spam_classification.py
 ├── README.md
 └── requirements.txt
+```
+
+## Feature Extraction
+
+We use TF-IDF (Term Frequency-Inverse Document Frequency) to convert the text data into numerical features. This helps in transforming the text data into a format suitable for machine learning algorithms.
+
+## Model Training
+
+We train multiple classifiers to compare their performance:<br/>
+1.Naive Bayes<br/>
+2.Logistic Regression<br/>
+3.Support Vector Machines (SVM)<br/>
+
+## Model Evaluation
+
+We evaluate the model using various matrices:<br/>
+-Accuracy
+-Precision
+-Recall
+-F1-Score
+-Confusion Matrix
+
+## Results
+
+The performance of the model is as follows:<br/>
+| Name      | Age | Occupation     |
+|-----------|-----|----------------|
+| Alice     | 30  | Engineer       |
+| Bob       | 25  | Designer       |
+| Charlie   | 35  | Teacher        |
+| Diana     | 28  | Scientist      |
+
+
 
 
 
