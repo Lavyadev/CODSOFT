@@ -75,21 +75,20 @@ We train multiple classifiers to compare their performance:<br/>
 ## Model Evaluation
 
 We evaluate the model using various matrices:<br/>
--Accuracy
--Precision
--Recall
--F1-Score
--Confusion Matrix
+-Accuracy<br/>
+-Precision<br/>
+-Recall<br/>
+-F1-Score<br/>
+-Confusion Matrix<br/>
 
 ## Results
 
 The performance of the model is as follows:<br/>
-| Name      | Age | Occupation     |
-|-----------|-----|----------------|
-| Alice     | 30  | Engineer       |
-| Bob       | 25  | Designer       |
-| Charlie   | 35  | Teacher        |
-| Diana     | 28  | Scientist      |
+|MODEL                              |Accuracy   |
+|Naive Bayes                        |0.98       |
+|Logistic Regression                |0.98       |
+|Support Vector Machine(SVM)        |0.98       |
+
 
 
 
