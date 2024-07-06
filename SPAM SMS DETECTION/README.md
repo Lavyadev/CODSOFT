@@ -1,26 +1,23 @@
 # SPAM SMS DETECTION
-<br/>
+
 This projects aims ot classify SMS messages as spam or legitimate(ham) using various machine learning techniques. The dataset used
 is the SMS Spam Collection Dataset from UCI Machine Learning Repository.
-<br/>
 
 ## Table of Contents
-<br/>
 
-[Introduction](https://github.com/Lavyadev/CODSOFT/blob/main/SPAM%20SMS%20DETECTION/README.md#introduction)
-
-[Dataset](#dataset)<br/>
-[Installation](#installation)<br/>
+[Introduction](#introdcution)
+[Dataset](#dataset)
+[Installation](#installation)
 [Usage](#usage)<br/>
-[Project Structure](#project-structure)<br/>
-[Feature Extraction](#feature-extarction)<br/>
-[Model Training](#model-training)<br/>
-[Model Evaluation](#model-evaluation)<br/>
-[Results](#results)<br/>
-[Contributing](#contributing)<br/>
+[Project Structure](#project-structure)
+[Feature Extraction](#feature-extarction)
+[Model Training](#model-training)
+[Model Evaluation](#model-evaluation)
+[Results](#results)
+[Contributing](#contributing)
 [License](#license)
 
-<br/>
+
 
 ## Introduction
 <br/>
