@@ -18,7 +18,7 @@ Customer churn prediction is crucial for subscription-based businesses to retain
 ## Dataset
 
 The dataset used for this project includes historical customer data with the following features:<br/>
-__1. CustomerID:__ A unique identifier for each customer.<br/>
+__`1. CustomerID:`__ A unique identifier for each customer.<br/>
 __2. Surname:__ The last name of the customer.<br/>
 __3. CreditScore:__ The credit score of the customer, which is a numerical expression based on the analysis of their credit files to represent their creditworthiness.<br/>
 __4. Geography:__ The country or region where the customer is located.<br/>
@@ -50,7 +50,7 @@ cd CODSOFT
 
 To run churn prediction model, follow these steps:<br/>
 1. Ensure you have the dataset in CSV format named customer_churn.csv in the project directory.<br/>
-2. Run the ```customer_churn_prediction.ipynb``` script.
+2. Run the `customer_churn_prediction.ipynb` script.
 
 ## Results
 
