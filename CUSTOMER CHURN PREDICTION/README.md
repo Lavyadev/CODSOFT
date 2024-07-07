@@ -49,7 +49,7 @@ cd CODSOFT
 ## Usage 
 
 To run churn prediction model, follow these steps:<br/>
-1. Ensure you have the dataset in CSV format named customer_churn.csv in the project directory.<br/>
+1. Ensure you have the dataset in CSV format named Churn_Modelling.csv in the project directory.<br/>
 2. Run the `customer_churn_prediction.ipynb` script.
 
 ## Results
