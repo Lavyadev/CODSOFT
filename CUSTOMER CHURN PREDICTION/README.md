@@ -58,6 +58,13 @@ The evaluation metrics for each model (Logistic Regression, Random Forest, and G
 
 ## Contributing
 
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.<br/>
+1. Fork the repository<br/>
+2. Create a new branch (`git checkout -b feature/your-feature`)<br/>
+3. Commit your changes (`git commit -m 'Add some feature`)<br/>
+4. Push to the branch (`git push origin feature/your-feature`)<br/>
+5. Open a pull request.
+
 
 
 
