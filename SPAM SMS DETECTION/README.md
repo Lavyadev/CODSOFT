@@ -41,11 +41,7 @@ git clone https://github.com/Lavyadev/CODSOFT.git
 cd CODSOFT
 ```
 2. Download the dataset and place it in the project directory.<br/>
-3. Run the script to train and evaluate the model:
-```
-bash
-python sms_spam_detection.ipynb
-```
+3. Run the script `sms_spam_detection.ipynb` to train and evaluate the model:
 
 ## Project Structure
 
