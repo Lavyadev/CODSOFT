@@ -11,7 +11,7 @@ This repository contains a project to detect fraudulent credit card transactions
 - [Models](#models)<br/>
 - [Results](#results)<br/>
 - [Contributing](#contributing)<br/>
-- [License](#license)<br/>
+
 
 ## Introduction
 
