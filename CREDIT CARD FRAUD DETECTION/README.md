@@ -35,15 +35,7 @@ To run this project locally, you'll need to have Python installed. Follow these 
 
 ## Usage
 
-1. **Train the models**:
-
-   Run `python train_models.ipynb` script
-    
-
-2. **Evaluate the models**:
-
-   Run `python evaluate_models.ipynb` script
-   
+Run the `credi_card_fraud_detection.ipynb` script
 
 ## Models
 
@@ -54,7 +46,7 @@ We experiment with the following machine learning algorithms:<br/>
 
 ## Results
 
-The performance of each model is evaluated using metrics such as accuracy, precision, recall, and F1-score. Detailed results and comparisons are provided in the [results](results.md) file.
+The performance of each model is evaluated using metrics such as accuracy, precision, recall, and F1-score.
 
 ## Contributing
 
