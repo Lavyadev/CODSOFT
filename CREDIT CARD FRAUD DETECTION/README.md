@@ -35,17 +35,12 @@ To run this project locally, you'll need to have Python installed. Follow these 
 
 ## Usage
 
-1. **Preprocess the data**:
-
-   Run `preprocess_data.ipynb` script
-    
-
-2. **Train the models**:
+1. **Train the models**:
 
    Run `python train_models.ipynb` script
     
 
-3. **Evaluate the models**:
+2. **Evaluate the models**:
 
    Run `python evaluate_models.ipynb` script
    
