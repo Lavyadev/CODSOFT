@@ -32,7 +32,7 @@ __`11. IsActiveMember:`__ Indicates whether the customer is an active member (1 
 __`12. EstimatedSalary:`__ The estimated annual salary of the customer.<br/>
 __`13. Exited:`__ Indicates whether the customer has exited (churned) the bank (1 for yes, 0 for no).
 
-## Installaion
+## Installation
 
 To run this project locally, follow these steps:<br/>
 1. Clone the repository:
