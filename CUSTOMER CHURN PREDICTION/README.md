@@ -43,12 +43,10 @@ __`13. Exited:`__ Indicates whether the customer has exited (churned) the bank (
 To run this project locally, follow these steps:<br/>
 1. Clone the repository:
 ```
-bash
 git clone https://github.com/Lavyadev/CODSOFT.git
 ```
 2. Navigate to the project directory:
 ```
-bash
 cd CODSOFT
 ```
 
