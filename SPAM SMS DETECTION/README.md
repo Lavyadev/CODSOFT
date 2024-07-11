@@ -4,16 +4,25 @@ This projects aims to classify SMS messages as spam or legitimate(ham) using var
 
 ## Table of Contents
 
--[Introduction](#introdcution)<br/>
--[Dataset](#dataset)<br/>
--[Installation](#installation)<br/>
--[Usage](#usage)<br/>
--[Project Structure](#project-structure)<br/>
--[Feature Extraction](#feature-extarction)<br/>
--[Model Training](#model-training)<br/>
--[Model Evaluation](#model-evaluation)<br/>
--[Results](#results)<br/>
--[Contributing](#contributing)<br/>
+-[Introduction](#introdcution)
+
+-[Dataset](#dataset)
+
+-[Installation](#installation)
+
+-[Usage](#usage)
+
+-[Project Structure](#project-structure)
+
+-[Feature Extraction](#feature-extarction)
+
+-[Model Training](#model-training)
+
+-[Model Evaluation](#model-evaluation)
+
+-[Results](#results)
+
+-[Contributing](#contributing)
 
 ## Introduction
 
@@ -28,7 +37,6 @@ The dataset used in this project is the SMS Spam Collection Dataset. It contains
 
 To run this project, you need to have Python installed on your system. You can install the required libraries using the following command:
 ```
-bash
 pip install pandas scikit-learn
 ```
 
@@ -46,7 +54,6 @@ cd CODSOFT
 ## Project Structure
 
 ```
-kotlin
 sms_spam_detection/
 │
 ├── data/
@@ -70,11 +77,15 @@ We train multiple classifiers to compare their performance:<br/>
 ## Model Evaluation
 
 We evaluate the model using various matrices:<br/>
--Accuracy<br/>
--Precision<br/>
--Recall<br/>
--F1-Score<br/>
--Confusion Matrix<br/>
+-Accuracy
+
+-Precision
+
+-Recall
+
+-F1-Score
+
+-Confusion Matrix
 
 ## Results
 
