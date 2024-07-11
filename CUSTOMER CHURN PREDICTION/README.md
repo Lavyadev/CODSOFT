@@ -4,12 +4,18 @@ This repository contains a project for predicting customer churn for a subscript
 
 ## Table of Contents
 
--[Project Overview](#project-overview)<br/>
--[Data Set](#data-set)<br/>
--[Installation](#installation)<br/>
--[Usage](#usage)<br/>
--[Results](#results)<br/>
--[Contributing](#contributing)<br/>
+-[Project Overview](#project-overview)
+
+-[Data Set](#data-set)
+
+-[Installation](#installation)
+
+-[Usage](#usage)
+
+-[Results](#results)
+
+-[Contributing](#contributing)
+
 
 ## Project Overview
 
