@@ -4,25 +4,25 @@ This projects aims to classify SMS messages as spam or legitimate(ham) using var
 
 ## Table of Contents
 
--[Introduction](#introdcution)
+- [Introduction](#introdcution)
 
--[Dataset](#dataset)
+- [Dataset](#dataset)
 
--[Installation](#installation)
+- [Installation](#installation)
 
--[Usage](#usage)
+- [Usage](#usage)
 
--[Project Structure](#project-structure)
+- [Project Structure](#project-structure)
 
--[Feature Extraction](#feature-extarction)
+- [Feature Extraction](#feature-extarction)
 
--[Model Training](#model-training)
+- [Model Training](#model-training)
 
--[Model Evaluation](#model-evaluation)
+ [Model Evaluation](#model-evaluation)
 
--[Results](#results)
+- [Results](#results)
 
--[Contributing](#contributing)
+- [Contributing](#contributing)
 
 ## Introduction
 
